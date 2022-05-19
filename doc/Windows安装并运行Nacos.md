@@ -28,4 +28,5 @@ https://github.com/alibaba/nacos/releases
 
 ## 结果页面
 
-![image-20220430094202288](Windows安装并运行Nacos.assets/image-20220430094202288.png)
+![image-20220430094202288](file://C:\Users\Z\Desktop\doc\SpringCloudAlibaba\doc\Windows安装并运行Nacos.assets\image-20220430094202288.png?lastModify=1652937595)
+
