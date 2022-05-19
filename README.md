@@ -28,7 +28,7 @@
 
 [12.Gateway新一代网关](/doc/12.Gateway新一代网关.md)
 
-[13.SpringCloud Config分布式配置中心](/doc/13.SpringCloud Config分布式配置中心.md)
+[13.SpringCloud Config分布式配置中心](/doc/13.SpringCloud%20Config分布式配置中心.md)
 
 [14.SpringCloud Bus消息总线](/doc/14.SpringCloud Bus消息总线.md)
 
