@@ -30,11 +30,11 @@
 
 [13.SpringCloud Config分布式配置中心](/doc/13.SpringCloud%20Config分布式配置中心.md)
 
-[14.SpringCloud Bus消息总线](/doc/14.SpringCloud Bus消息总线.md)
+[14.SpringCloud Bus消息总线](/doc/14.SpringCloud%20Bus消息总线.md)
 
-[15.SpringCloud Stream消息驱动](/doc/15.SpringCloud Stream消息驱动.md)
+[15.SpringCloud Stream消息驱动](/doc/15.SpringCloud%20Stream消息驱动.md)
 
-[16.SpringCloud Sleuth分布式请求链路跟踪](/doc/16.SpringCloud Sleuth分布式请求链路跟踪.md)
+[16.SpringCloud Sleuth分布式请求链路跟踪](/doc/16.SpringCloud%20Sleuth分布式请求链路跟踪.md)
 
 
 
@@ -42,13 +42,13 @@
 
 ## SpringCloud Alibaba
 
-[17.SpringCloud Alibaba入门简介](/doc/17.SpringCloud Alibaba入门简介.md)
+[17.SpringCloud Alibaba入门简介](/doc/17.SpringCloud%20Alibaba入门简介.md)
 
-[18.SpringCloud AlibabaNacos服务注册和配置中心](/doc/18.SpringCloud AlibabaNacos服务注册和配置中心.md)
+[18.SpringCloud AlibabaNacos服务注册和配置中心](/doc/18.SpringCloud%20AlibabaNacos服务注册和配置中心.md)
 
-[19.SpringCloud AlibabaSentinel实现熔断与限流](/doc/19.SpringCloud AlibabaSentinel实现熔断与限流.md)
+[19.SpringCloud AlibabaSentinel实现熔断与限流](/doc/19.SpringCloud%20AlibabaSentinel实现熔断与限流.md)
 
-[20.SpringCloud AlibabaSeata处理分布式事务](/doc/20.SpringCloud AlibabaSeata处理分布式事务.md)
+[20.SpringCloud AlibabaSeata处理分布式事务](/doc/20.SpringCloud%20AlibabaSeata处理分布式事务.md)
 
 
 
